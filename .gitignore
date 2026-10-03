@@ -1,5 +1,10 @@
 main/
 *.csv
 *.pkl
+.env
+.ipynb_checkpoints/
+data/sarc2-main/
+outputs/*
+!outputs/jev_predictions.csv
 
 glove.6B.50d.txt.zip
